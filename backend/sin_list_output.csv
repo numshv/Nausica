@@ -1,0 +1,66 @@
+inci_name,natural_origin_pct,is_eu_banned,is_eu_restricted,is_sin_list,sin_list_flags,is_nanomaterial,is_nanomaterial_whitelisted,restriction,data_source
+10009-20-8,15,False,False,True,{Extremely persistent},False,False,,ChemSec SIN List
+100-97-0,15,False,False,True,{PMT/vPvM},False,False,,ChemSec SIN List
+103300-91-0,15,False,False,True,{Extremely persistent},False,False,,ChemSec SIN List
+103577-66-8,15,False,False,True,{Extremely persistent},False,False,,ChemSec SIN List
+103597-45-1,15,False,False,True,{PBT/vPvB},False,False,,ChemSec SIN List
+104333-00-8,15,False,False,True,{Extremely persistent},False,False,,ChemSec SIN List
+10442-83-8,15,False,False,True,{Extremely persistent},False,False,,ChemSec SIN List
+107-51-7,15,False,False,True,{PBT/vPvB},False,False,,ChemSec SIN List
+1163-19-5,15,False,False,True,"{Endocrine disruptor,PBT/vPvB}",False,False,,ChemSec SIN List
+1189052-95-6,15,False,False,True,{Extremely persistent},False,False,,ChemSec SIN List
+120068-79-3,15,False,False,True,{Extremely persistent},False,False,,ChemSec SIN List
+126586-91-2,15,False,False,True,{Extremely persistent},False,False,,ChemSec SIN List
+133331-77-8,15,False,False,True,{Extremely persistent},False,False,,ChemSec SIN List
+1337538-18-7,15,False,False,True,{Extremely persistent},False,False,,ChemSec SIN List
+1398610-04-2,15,False,False,True,{Extremely persistent},False,False,,ChemSec SIN List
+1446013-08-6,15,False,False,True,{Extremely persistent},False,False,,ChemSec SIN List
+148043-73-6,15,False,False,True,{Extremely persistent},False,False,,ChemSec SIN List
+163702-05-4,15,False,False,True,{Extremely persistent},False,False,,ChemSec SIN List
+1645-83-6,15,False,False,True,{Extremely persistent},False,False,,ChemSec SIN List
+17928-28-8,15,False,False,True,{PBT/vPvB},False,False,,ChemSec SIN List
+1805-22-7,15,False,False,True,{Extremely persistent},False,False,,ChemSec SIN List
+1809816-36-1,15,False,False,True,{Extremely persistent},False,False,,ChemSec SIN List
+1885-48-9,15,False,False,True,{Extremely persistent},False,False,,ChemSec SIN List
+1939-27-1,15,False,False,True,{Extremely persistent},False,False,,ChemSec SIN List
+22042-96-2,15,False,False,True,{PMT/vPvM},False,False,,ChemSec SIN List
+260980-89-0,15,False,False,True,{Extremely persistent},False,False,,ChemSec SIN List
+284461-73-0,15,False,False,True,{Extremely persistent},False,False,,ChemSec SIN List
+29514-94-1,15,False,False,True,{Extremely persistent},False,False,,ChemSec SIN List
+3063-94-3,15,False,False,True,{Extremely persistent},False,False,,ChemSec SIN List
+306-91-2,15,False,False,True,{Extremely persistent},False,False,,ChemSec SIN List
+306-94-5,15,False,False,True,{Extremely persistent},False,False,,ChemSec SIN List
+327-78-6,15,False,False,True,{Extremely persistent},False,False,,ChemSec SIN List
+328-90-5,15,False,False,True,{Extremely persistent},False,False,,ChemSec SIN List
+335-27-3,15,False,False,True,{Extremely persistent},False,False,,ChemSec SIN List
+335-67-1,15,False,False,True,"{Endocrine disruptor,Equivalent concern,Extremely persistent}",False,False,,ChemSec SIN List
+335-76-2,15,False,False,True,"{Toxic to Reproduction,PBT/vPvB,Extremely persistent}",False,False,,ChemSec SIN List
+355-04-4,15,False,False,True,{Extremely persistent},False,False,,ChemSec SIN List
+355-42-0,15,False,False,True,{Extremely persistent},False,False,,ChemSec SIN List
+355-93-1,15,False,False,True,{Extremely persistent},False,False,,ChemSec SIN List
+37526-59-3,15,False,False,True,{Extremely persistent},False,False,,ChemSec SIN List
+3896-11-5,15,False,False,True,{PBT/vPvB},False,False,,ChemSec SIN List
+407-25-0,15,False,False,True,{Extremely persistent},False,False,,ChemSec SIN List
+421-50-1,15,False,False,True,{Extremely persistent},False,False,,ChemSec SIN List
+421-85-2,15,False,False,True,{Extremely persistent},False,False,,ChemSec SIN List
+423-55-2,15,False,False,True,{Extremely persistent},False,False,,ChemSec SIN List
+4274-38-8,15,False,False,True,{Extremely persistent},False,False,,ChemSec SIN List
+540-97-6,15,False,False,True,{PBT/vPvB},False,False,,ChemSec SIN List
+541-02-6,15,False,False,True,{PBT/vPvB},False,False,,ChemSec SIN List
+556-67-2,15,False,False,True,"{Endocrine disruptor,Toxic to Reproduction,PBT/vPvB}",False,False,,ChemSec SIN List
+6226-25-1,15,False,False,True,{Extremely persistent},False,False,,ChemSec SIN List
+65753-47-1,15,False,False,True,{Extremely persistent},False,False,,ChemSec SIN List
+69045-82-5,15,False,False,True,{Extremely persistent},False,False,,ChemSec SIN List
+70983-60-7,15,False,False,True,{Extremely persistent},False,False,,ChemSec SIN List
+71-55-6,15,False,False,True,{PMT/vPvM},False,False,,ChemSec SIN List
+75-89-8,15,False,False,True,{Extremely persistent},False,False,,ChemSec SIN List
+76-03-9,15,False,False,True,{PMT/vPvM},False,False,,ChemSec SIN List
+76-19-7,15,False,False,True,{Extremely persistent},False,False,,ChemSec SIN List
+79456-26-1,15,False,False,True,{Extremely persistent},False,False,,ChemSec SIN List
+84852-53-9,15,False,False,True,{PBT/vPvB},False,False,,ChemSec SIN List
+85857-16-5,15,False,False,True,{Extremely persistent},False,False,,ChemSec SIN List
+90357-53-2,15,False,False,True,{Extremely persistent},False,False,,ChemSec SIN List
+920-66-1,15,False,False,True,{Extremely persistent},False,False,,ChemSec SIN List
+94239-04-0,15,False,False,True,{Extremely persistent},False,False,,ChemSec SIN List
+98-08-8,15,False,False,True,{Extremely persistent},False,False,,ChemSec SIN List
+EC-445-820-3,15,False,False,True,{Extremely persistent},False,False,,ChemSec SIN List
